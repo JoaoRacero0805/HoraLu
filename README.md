@@ -2,6 +2,8 @@
 
 Automação em **Google Apps Script** que lê os relatórios agendados da **Genesys Cloud** no Gmail, consolida as métricas numa planilha Google e envia, a cada atualização, e-mails com o desempenho do dia para os agentes e para a gestão do SAC.
 
+> 🏆 **Projeto apresentado ao Conselho Corporativo do Magazine Luiza.**
+
 O nome vem de "hora" + "Lu", de Magalu: o retorno chega ao longo do turno, e não só no fechamento do dia.
 
 | Como o agente recebe | Como o gestor recebe |
@@ -32,6 +34,7 @@ A pergunta que guiou o projeto foi simples: **como fazer cada agente saber, dura
 | jun–jul/2026 | Atingimento médio sobe para **112,14%**. |
 | jul/2026 | João é eleito destaque do time no mês e apresenta a ideia para gerentes corporativos. |
 | 2026 | Projeto apresentado no **Prêmio Destaque Operação Magalu 2026** e depois no **Arena Magalu**. |
+| 2026 | **Apresentação ao Conselho Corporativo do Magazine Luiza.** |
 | out/2026 | HoraLu levado ao time do supervisor André, sobre o script que ele já usava. Ganha CSAT, RPC e a Nota HoraLu. |
 | nov/2026 | Código reorganizado e publicado neste repositório. |
 
@@ -40,13 +43,14 @@ A pergunta que guiou o projeto foi simples: **como fazer cada agente saber, dura
 - Atingimento médio do time: **~99% (abr–mai) → 112,14% (jun–jul)** depois da implantação.
 - Cada agente passa a saber, várias vezes por dia, quanto falta para a meta e onde está no ranking.
 - A gestão recebe o consolidado pronto, sem montar relatório à mão.
+- Reconhecimento: destaque do time em jul/2026, Prêmio Destaque Operação Magalu 2026 e **apresentação ao Conselho Corporativo do Magazine Luiza**.
 - **Custo zero**: roda inteiro em Google Workspace, sem servidor.
 
 ### Momentos
 
 <p align="center">
   <img src="historia/apresentacao_horalu.jpeg" width="640" alt="Apresentação do HoraLu">
-  <br><em>Apresentando o HoraLu para a liderança. Os demais participantes foram desfocados.</em>
+  <br><em><strong>Apresentação do HoraLu para o Conselho Corporativo do Magazine Luiza.</strong> Os demais participantes foram desfocados.</em>
 </p>
 
 | | | |
