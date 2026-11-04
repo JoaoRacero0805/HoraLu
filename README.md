@@ -42,6 +42,23 @@ A pergunta que guiou o projeto foi simples: **como fazer cada agente saber, dura
 - A gestão recebe o consolidado pronto, sem montar relatório à mão.
 - **Custo zero**: roda inteiro em Google Workspace, sem servidor.
 
+### Momentos
+
+<p align="center">
+  <img src="historia/apresentacao_horalu.jpeg" width="640" alt="Apresentação do HoraLu">
+  <br><em>Apresentando o HoraLu para a liderança. Os demais participantes foram desfocados.</em>
+</p>
+
+| | | |
+|:---:|:---:|:---:|
+| <img src="historia/entrada_magalu.jpeg" width="260" alt="Entrada da Magalu"> | <img src="historia/escritorio_magalu.jpeg" width="260" alt="Escritório da Magalu"> | <img src="historia/vista_paulista.jpeg" width="260" alt="Vista da Av. Paulista"> |
+| Chegada à Magalu | Escritório da Magalu | Vista da Av. Paulista |
+
+<p align="center">
+  <img src="historia/teatro_youtube.jpeg" width="320" alt="Palco do Teatro YouTube">
+  <br><em>Palco do Teatro YouTube</em>
+</p>
+
 ## Como funciona
 
 1. A Genesys envia por e-mail os relatórios em CSV (performance, ociosidade e avaliações).
