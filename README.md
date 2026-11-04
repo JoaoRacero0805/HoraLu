@@ -49,8 +49,8 @@ A pergunta que guiou o projeto foi simples: **como fazer cada agente saber, dura
 ### Momentos
 
 <p align="center">
-  <img src="historia/apresentacao_horalu.jpeg" width="640" alt="Apresentação do HoraLu">
-  <br><em><strong>Apresentação do HoraLu para o Conselho Corporativo do Magazine Luiza.</strong> Os demais participantes foram desfocados.</em>
+  <img src="historia/apresentacao_horalu.jpeg" width="480" alt="Apresentação do HoraLu">
+  <br><em><strong>Apresentação do HoraLu para o Conselho Corporativo do Magazine Luiza.</strong></em>
 </p>
 
 | | | |
