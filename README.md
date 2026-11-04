@@ -2,11 +2,10 @@
 
 Automação em **Google Apps Script** que lê os relatórios agendados da **Genesys Cloud** no Gmail, consolida as métricas numa planilha Google e envia, a cada atualização, e-mails com o desempenho do dia para os agentes e para a gestão do SAC.
 
-<p align="center">
-  <img src="time-andre/previas/previa_agente.png" width="32%" alt="E-mail do agente">
-  <img src="time-andre/previas/previa_aprendiz.png" width="32%" alt="E-mail do aprendiz">
-  <img src="time-andre/previas/previa_gestao.png" width="32%" alt="Painel da gestão">
-</p>
+| Como o agente recebe | Como o gestor recebe |
+|:---:|:---:|
+| <img src="time-andre/previas/previa_agente.png" width="380" alt="E-mail do agente"> | <img src="time-andre/previas/previa_gestao.png" width="380" alt="Painel da gestão"> |
+| Só os próprios números. As posições do TOP 5 aparecem em cinza: o agente não vê nome, métricas nem metas dos colegas. | Painel completo do time: atingimento, pódio, quem precisa de ajuda, qualidade e ranking com todos os agentes. |
 
 > As prévias usam dados fictícios.
 
